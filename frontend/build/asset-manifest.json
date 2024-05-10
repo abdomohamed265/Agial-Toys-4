@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3651cdfa.css",
+    "main.js": "/static/js/main.448d9cbc.js",
+    "static/media/polices1.jpeg": "/static/media/polices1.56210480c931ee30527a.jpeg",
+    "static/media/Polices2.jpeg": "/static/media/Polices2.cf486b29a27cec876767.jpeg",
+    "index.html": "/index.html",
+    "main.3651cdfa.css.map": "/static/css/main.3651cdfa.css.map",
+    "main.448d9cbc.js.map": "/static/js/main.448d9cbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3651cdfa.css",
+    "static/js/main.448d9cbc.js"
+  ]
+}

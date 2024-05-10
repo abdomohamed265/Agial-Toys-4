@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.home{
+    background-image: url(D:\projects\project\frontend\public\img\polices1.jpeg);
+    background-repeat: repeat;
+    width: 100%;
+    height: 480px;
+    background-position:center;
+    background-attachment: fixed;
+    background-position: 100% 100%;
+}
+.darck{
+    background-color: rgba(0, 0, 0, 0.349);
+    width: 100%;
+    height: 480px;
+}
+.hooom{
+    background-image: url(D:\projects\project\frontend\public\img\Polices2.jpeg);
+    background-repeat: repeat;
+    width: 100%;
+    height: 500px;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-position: 100% 100%; */
+}
+.darckk{
+    background-color: rgba(0, 0, 0, 0.406);
+    width: 100%;
+    height: 500px;
+}
+.info h2{
+    font-size:2.833rem;
+    /* text-align: center; */
+    color: #444897; 
+
+}
+.info .blog-text{
+    font-size: 1.167rem;
+    color: #606060;
+}
